@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+header{
+    width: 100%;
+    height: 65px;
+    background-color: #4B0082;
+}
+nav{
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}
+
+nav ul li{
+    display: inline;
+    color:white;
+    padding:7px;
+}
+
+li a{
+    text-decoration: none;
+    color:white;
+    font-size: large;
+}
+
+#topo{
+    width: 80%;
+    margin: auto;
+    margin-right: 8%;
+    display: flex;
+}
+
+footer{
+    margin-top: 27%;
+    width: 100%;
+    height: 65px;
+    background-color: #4B0082;
+}
+
+.logos{
+    height: 65px;
+}
+
+section{
+    display: flex;
+}
+
+#foto{
+width: 60%;
+height: 60%;
+margin-left:18%;
+margin-top: 8%;
+border-radius: 5%;
+display: inline-block;
+}
+
+#esquerda{
+    width: 40%;
+    height: 74%;
+    margin-right: 0%;
+}
+
+#direita{
+    margin-top:2%;
+}
+
+#descricao{
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+p{
+    color: 	#A9A9A9;
+}
+
+#Profissional{
+    padding-left: 10%;
+    color: 	#A9A9A9;
+}
